@@ -1,4 +1,5 @@
-@echo on
+:: You need a separate file suffixes.txt with suffixes separated by new line.
+@echo off
 setlocal EnableDelayedExpansion
 echo Renaming images...
 
